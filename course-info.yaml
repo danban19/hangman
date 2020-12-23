@@ -6,6 +6,4 @@ summary: Hangman is a popular yet grim puzzle game. A cruel computer hides a wor
   If you win, you'll survive. You’ve probably played the game at least once or twice.
   Now you can actually create this game yourself!<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/69</a>
 programming_language: Python
-content:
-- Hangman
 mode: Study
